@@ -1,6 +1,6 @@
-# Webpack Starter
+# Todo APP
 
-Este es el proyecto iniciar para crear aplicaciones utilizando webpack.
+Introduce una tarea :)
 
 ### Notas
 Recordar reconstruir los modulos de Node con el comando:
